@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Mini Blogs
+title: Mini Blogss
 description: Random blogging posts with ❤
 github_username: GabyEstrada
 
 # Email and twitter are optional:
 email: gestradahernandez@smu.edu
-twitter_change_to_etsy_username: https://www.etsy.com/shop/POQUILLO
+twitter_username: https://www.etsy.com/shop/POQUILLO
 
 # Set this to true to get LaTeX math equation support
 use_math:
