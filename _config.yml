@@ -28,7 +28,7 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
 
-titles_from_headings:
+titles_from_headings: Mini Blogs
   enabled:     true
   strip_title: true
   collections: true
