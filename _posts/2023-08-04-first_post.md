@@ -14,7 +14,7 @@
   - If no one could see what I was doing, I would still do it
   - If everyone could see that I was doing this, I would still do it
 
- ### To understand more deeply what I am talking about feel free to grab Guy's book at your nearest bookstore or online.
+ ### To understand fully what I'm talking about feel free to grab Guy's book at your nearest bookstore or online.
 
  ### 
  Happy Reading, 
