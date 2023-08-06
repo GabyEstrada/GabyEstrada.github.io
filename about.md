@@ -1,5 +1,6 @@
 # About
 
+![image for Gaby Estrada's about page](images/
 ¡Hola!👋I'm Gaby, a results-driven professional with a strong background in business management. My track record showcases a talent for effectively addressing customer challenges and nurturing enduring partnerships that drive significant business advancements.😉
 
 Get to know more about me by reading my favorite excerpt from the book Enchantment by Guy Kawasaki. 👇
