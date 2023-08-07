@@ -1,6 +1,6 @@
 # What I Learned From "Enchanted" by Guy Kawasaki
 
-### First, I loved how Guy wrote a book that is straight to the point while incorporating Japanese culture into it. 
+First, I loved how Guy wrote a book that is straight to the point while incorporating Japanese culture into it. 
 
 ### Now jumping into the lessons I learned: 
 - When people thank you after you help them, the optimal response should be along the lines of "I know you'd do the same for me"
@@ -14,9 +14,8 @@
   - If no one could see what I was doing, I would still do it
   - If everyone could see that I was doing this, I would still do it
 
- ### To understand fully what I'm talking about feel free to grab Guy's book at your nearest bookstore or online.
+ To understand fully what I'm talking about feel free to grab Guy's book at your nearest bookstore or online.
 
- ### 
  Happy Reading, 
  
  Gaby
