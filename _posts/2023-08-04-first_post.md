@@ -14,7 +14,7 @@ First, I loved how Guy wrote a book that is straight to the point while incorpor
   - If no one could see what I was doing, I would still do it
   - If everyone could see that I was doing this, I would still do it
 
- To understand fully what I'm talking about feel free to grab Guy's book at your nearest bookstore or online.
+This book is a must-read. Grab Guy's book at your nearest bookstore or <a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=gabyestradaem-20&linkCode=ur2&linkId=8965d6ce24578e498ea163fa93389424&camp=1789&creative=9325&index=books&keywords=Enchanted by Guy Kawasaki">online</a>.
 
  Happy Reading, 
  
