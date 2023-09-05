@@ -16,7 +16,7 @@
    - call it "Conclusion"
 BONUS: reach out to those you back-link and let them know you did that.
 
-See Neil Patel's video here: https://www.youtube.com/watch?v=Q8rN3JKqUc8
+See Neil Patel's video, here: https://www.youtube.com/watch?v=Q8rN3JKqUc8
 
 Cheers,
 Gaby
