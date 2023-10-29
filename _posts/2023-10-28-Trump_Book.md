@@ -1,4 +1,4 @@
-# No Such Thing As Over-Exposure by Robert Slater
+# "No Such Thing As Over-Exposure" by Robert Slater
 
 I was in the library looking for another biography when I came across this book. The title got my attention. 
 It was interesting to see how Donald Trump was before he became president and how the past was already alluding to his currently popularity 
