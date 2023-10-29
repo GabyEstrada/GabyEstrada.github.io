@@ -1,4 +1,4 @@
-# The Lost Art of Closing by Anthony Iannarino
+# "The Lost Art of Closing" by Anthony Iannarino
 
 It took me months to finally plow through this book. 
 I ended up reading most of it in one seating while taking a Vonlane to San Antonio, Texas. 
