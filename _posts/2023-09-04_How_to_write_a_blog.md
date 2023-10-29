@@ -1,4 +1,3 @@
-
 # How To Write A Blog According to Neil Patel
 
 1. First thing you do is start off with a title
