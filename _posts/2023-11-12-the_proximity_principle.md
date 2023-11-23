@@ -21,7 +21,7 @@ Top points I want to remember:
   - Make a list of companies and orgs in desired field, then find out who the producers are
   - Determine exactly what you want to learn about their industry, then write down a few key questions you'd like tpo ask them
   - Schedule a brief meeting to learn about their industry
-- Eerything you neeed can be found in your zipcode! Go and turn every rock.. you WILL find what you need!
+- Everything you neeed can be found in your zipcode! Go and turn every rock.. you WILL find what you need!
 - Create a web of connections... and when you do, add value
 - Whatever role you have right now, do your best.. think of it as a cornerstone to your dream role
 - mimic the pros in your field to then create your own style
