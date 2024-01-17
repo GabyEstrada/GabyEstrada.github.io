@@ -1,3 +1,3 @@
-# Your blog
+# Blog about what I learn from books
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+So far, I am using this as a blog to put all my knowledge I learn from books. 
