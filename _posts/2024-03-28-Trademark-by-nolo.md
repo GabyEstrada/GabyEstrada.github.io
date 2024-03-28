@@ -1,7 +1,6 @@
 # Trademark (9th edition) by NOLO
 
-This book was published in 2005 so there is some material that is outdated but for the most part there are great 
-nuggets of information to store somewhere in our brain. Below are a few things that got stuck with me:
+This book, published in 2005, contains some outdated material. However, it also offers valuable information worth remembering. Here are a few key points that have stuck with me:
 
 - Trade name: formal name of the business for purposes of bank accounts. creditors. and potential lawsuits
     - Example: The Goodnight Meat Company
