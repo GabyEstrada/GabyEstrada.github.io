@@ -51,6 +51,7 @@ This book, published in 2005, contains some outdated material. However, it also 
   - There is a diffrence between trademark and copyright
   - Trademark protects expression that is used to identify and distinguish a product or service in the marketplace
 
+
   Within each of these points, I could go deeper... but I will leave it to you as homework.
 
   Cheers,
