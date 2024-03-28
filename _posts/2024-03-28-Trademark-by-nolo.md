@@ -2,23 +2,22 @@
 
 This book, published in 2005, contains some outdated material. However, it also offers valuable information worth remembering. Here are a few key points that have stuck with me:
 
-- Trade name: formal name of the business for purposes of bank accounts. creditors. and potential lawsuits
+- Trade name: Formal name of the business for purposes of bank accounts, creditors, and potential lawsuits
     - Example: The Goodnight Meat Company
-- Trademark: name used to market business its goods and services
+- Trademark: Name used to market business its goods and services
     - Example: "Sunrise Sausage" to identify a good produced by The Goodnight Meat Company
 - The strongest trademark is a name coined (made up), such as Exxon
     - A unqiue name by nature is considered to be a distinctive name, and a distinctive name is entitled by law to
       protection as a trademark
-- Weakest trademarks: descriptive names and most ordinary names unless it gains secondary meaning overtime
-- Names to avoid: personal names, including nicknames, first names, surnames, and initials (there are more but these are the ones I cared about)
+- Weakest trademarks: Descriptive names and most ordinary names unless it gains secondary meaning overtime
+- Names to avoid: Personal names, including nicknames, first names, surnames, and initials (there are more but these are the ones I cared about)
 - When applying for a trademark, if you dont have enough money or want to be more
 - Ideas for what counts as specimens for service marks: letter with the mark appearing and the services described... it could be a letter sent out to a lead
 - Ideas for waht counts as a specimen for Marks on goods: JPEG of your website with domain name a prominent part of the design of the home page.
   - The services being offered on your website should match the description of the services in your application
 - If you have not heard from the USPTO office in 6 months about the application... follow-up
 - When your mark is federallu registered... add the Registration symbol sporatically with that word
-- You can use TM (for trade mark) and SM ( for service mark) alongside an unregistered mark to show that you claim ownership of the mark and intend to assert your
-  right against imitators
+- You can use TM (for trade mark) and SM (for service mark) alongside an unregistered mark to show that you claim ownership of the mark and intend to assert your right against imitators
 - During the 5th and 6th year after federally registering your mark, you should complete and file two PTO forms:
   - Section 8 Declaration
   - Section 15 Declaration
