@@ -27,7 +27,7 @@ This book, published in 2005, contains some outdated material. However, it also 
 - Trasnferring ownership of the trademark... read pages 253-255
 - Distinctive (or strong) slogans can be registed as trademarks with the PTO
   - Some slogans are inherently distinctive if by their very nature they create a memorable association with a particular product or service
-    - Example: " Reach Out and Touch Someone" qualifies as it does not descrive the service
+    - Example: " Reach Out and Touch Someone" qualifies as it does not describe the service
 - Do a thorough reserach that the trademark you want to use is not in use.
     - Search state-registered trademarks and tradenames
     - lookup them up in the USPTO
