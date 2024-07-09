@@ -25,4 +25,4 @@ The last few years of working from home have shown me that self-discipline and a
 Initially, I was skeptical about the concept of an organizing business consultant, but after reading Nikki's book, I realized the importance of creating a personalized work environment. While my notes are quite high-level, I encourage you to read her book for a detailed guide on tailoring your workspace to your needs. :)
 
 Cheers,
-xoxo
+Gaby
