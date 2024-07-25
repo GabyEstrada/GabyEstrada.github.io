@@ -1,8 +1,8 @@
-# The Checklist Manifesto by Atul Gawande
+# "The Checklist Manifesto" by Atul Gawande
 
 During one internal meeting at work, it was suggested among the team to read this book. I could not wrap my head around how so many pages could be devoted to discussing checklists. But when I finally lifted the book and opened the pages, the intro got me hooked!
 
-Here are the top things that I took away:
+### Here are the top things that I took away:
 - Try not to go to the hospital if you don't need to.... (read the book to understand what I mean 😝)
 - The construction industry is safer for humans than the medical industry (annual failure rate of less than 0.00002%!)
 - Even enhanced by technology, our physical and mental powers are limited. Two reasons we may nonetheless fail:
@@ -21,4 +21,5 @@ Here are the top things that I took away:
 This book revolutionized how I think. In the last pages, it even gave examples of how investors used them. If you only have time for one book, opt for this one!
 
 Cheers,
+
 Gaby
