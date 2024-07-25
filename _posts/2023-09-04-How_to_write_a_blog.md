@@ -1,13 +1,13 @@
 # How To Write A Blog According to Neil Patel
 
-1. First thing you do is start off with a title
+1. First thing you do is start with a title
     - get inspiration from reading magazines, posts, articles
     - create two to three variations and ask people to choose 
-2. Have a strong introduction by having a solid hook that also mentiones what you will cover in your post
+2. Have a strong introduction by having a solid hook that also mentions what you will cover in your post
    - a quick overview of what you are going to teach them
-3. Body should have subheadings
+3. The body should have subheadings
    - want people to be able to skim your content
-   - keep your paragraphs from fice to six lines max
+   - keep your paragraphs from five to six lines max
 4. Link out to other sites
    - build credibility
 5. Wrap up with a conclusion
