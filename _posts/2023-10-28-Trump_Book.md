@@ -14,4 +14,5 @@ and flashy/extravagant decor in his properties is part of his unique branding...
 Feel free to grab a copy and read this interesting book.
 
 Cheers,
+
 Gaby
