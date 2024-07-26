@@ -22,6 +22,8 @@ google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
+#remote_theme: jekyll/minima
+
 plugins:
   - jekyll-feed
   - jekyll-gist
