@@ -3,7 +3,7 @@
 I recently bought a new computer and needed to connect it to GitHub. It's been a while since I had done this so it took me a few hours to get it done. I'm wirting it done so you and I don't have to spend countless 
 hours of research next time.
 
-### Steps To Gwnerate a New SSH Key
+### Steps To Generate a New SSH Key
 1. Open Git Bash
 2. Paste the following command: ssh-keygen -t ed25519 -C "youremail@domain.com"
    - Replace the generic email with the email address you have in GitHub
