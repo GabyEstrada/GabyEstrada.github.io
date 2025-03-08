@@ -1,3 +1,4 @@
+# "What I learned from Nicolas COle on Growing an Audience by Writing"
 
 Video: The Best Digital Writing Platforms To Build An Audience in 2024 [8 min video]
 
