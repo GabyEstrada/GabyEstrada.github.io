@@ -59,4 +59,17 @@ Foods that are yellow (containing the carotene lutein) and orange  (containing b
 - Having a antireflective coating put on your glasses can help reduce glare at night and sharpen you night vision.
 - Checkout vitamin called Able Eyes
 
+### Deeper Investigation and Natural Therapy for Allergic Conjunctivitis
+Diet and supplementation play important roles in preventing and treating allergic conjunctivitis. Dr. Robert Abel Jr. discovered that the adrenal glands are very important in mataining eye and body health. Providing support for the adrenal glands which relieve stress (an important complement) is an excellent path to follow. Supplementation here unclides taking vitaming B complex ( B6 and B12 especially) and vitamin C (start with 1 gram [1000mg] a day and slowly work up to three grams a day). If it gives you diarrhea, cut back until you find a dosage you can tolerate. Combinining these vitamins with bioflavonoids is useful in supressing allergic conjunctivitis. Quercetin which comes from red onions and garlic, is available as supllement as well: take 1000 MG a day. Quercetin is a powerful anti-flammatory- perhaps even more so that bilberry. If you take quarcetin, combine it with vitamin C and cayenne pepper.
+
+Dr. Aber's other recommendations for naturally combating allergies are:
+- Drink filtered water or bottled spring water
+- supplement with essential fatty acids, 500 mg twice a day with a meal and a fat-soluble vitamin
+- supplment with antioxidants, including vitamin C, quercetin, and/or bilberry, as discussed above
+- consume 5 to 10 servings of vegetables and fruits per day
+- avoid packaged foods
+- take an MSM supplement, 1000 mg daily. Try it for a month, and then, if it hasn't eased your allergies, stop taking it.
+- Use olive leaf extract
+- Take a combination of chinese herbs
+
   
