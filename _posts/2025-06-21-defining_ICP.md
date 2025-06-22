@@ -13,3 +13,5 @@ Think.... "who do we serve best" using the ICP lens method
    
     Cheers,
     Gaby
+
+    P.S. Link to his video: https://youtu.be/1XnK8rb703k
