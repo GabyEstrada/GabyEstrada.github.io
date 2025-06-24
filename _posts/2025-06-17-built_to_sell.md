@@ -18,3 +18,10 @@ Important notes:
 - five-step logo design process
 - Ted's tip #3: owning a process makes it easier to pitch and puts you in control. be clear about what you're selling, and potential customers will be more likely to buy your product.
 - a service company is simply a collection of people with a specific expertise who offer their services to the marketplace
+- tip #4: do not become synonymous with your company. if buyers arent't confident that your business can run without you in charge, they won't make their best offer.
+- think of a model that allows you to charge in advance; this time make sure you include the price on the sell sheet and the words "billed upon signing letter of agreement". this is your product and you get to decide how it's billed
+- ted's tip #5 avoid cash suck. onc eyou've standardized your service, charge up front or use progress billing to create a positive cash flow
+- if you are the world's best logo creator, you;ll be memorable and referabble. foor every advertising project you turn down, you will win a logo assigment.
+- teds top #6 dont be afraid to say no to projects. prove that you're serious about specialization by turning down wokr that falls outside your area of expertise/ the more people you say no to, the more referrals you'll get to people who need your product or service
+- create an instruction manual; if he could get his staff to follow instructions, he could extricate himself from personally overseeing each new logo project
+- to sell your business, you need to demonstrate to a buyer that you have a sales engine that will produce predictable, reocurring revenue
