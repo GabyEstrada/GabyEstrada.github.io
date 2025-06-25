@@ -25,3 +25,17 @@ Important notes:
 - teds top #6 dont be afraid to say no to projects. prove that you're serious about specialization by turning down wokr that falls outside your area of expertise/ the more people you say no to, the more referrals you'll get to people who need your product or service
 - create an instruction manual; if he could get his staff to follow instructions, he could extricate himself from personally overseeing each new logo project
 - to sell your business, you need to demonstrate to a buyer that you have a sales engine that will produce predictable, reocurring revenue
+- ted's tip #7: take some time to figure out how many pipeline prospects will likely lead to sales. this number will become essential whn you go to sell because it allows the buyer to estimate the size of the market opportunity.
+- always at least grab 2 sales people; salespeople are competitive and they will compete with each other
+- know how many meetings to close a sale
+- hire people who are good at selling products not services. these people will be better ablet o figure out how your product can meet a client's needs rather than agreeing to customize your offering to fit what the client wants
+- you cant be 1/2 pregnant; old clients need to be told you dont do all now but specialize in x thing now and decline jobs!
+- ig nore your p&L statement in the year you make the switch to a standardize offering even if it means you and your employees wikk gave to forgo a bonus that year. as long as your cash flow remains consistent and strong, you'll be back in the black in no time
+- you need at least two years of finacial statements reflecting your use of the standardized offering model before you sell your company
+- small biz sell for roughly 3x to 4x pretax profit
+- when you want to sell your business, write in a paper what you want to sell it for, put it an envelope and forget it
+- build a management team and offer them a long-term incentive plan that rewards their performance and loyalty
+  - example: promotion with cash bonus plan (long-term incentive plan)
+- the term business broker is usually used for individuals who do a smalles deals where the total value of the transaction is well under $5M. you are really looking for a boutique m&A firm. the firm you select needs to be large enough to be respected by a potential buyer, yet small enough that your deal will be important to them
+- find an adviser for whom you will be neither their largest nor their smallest client. make sure they know your industry
+- avoid an adviser who offers to a broker a discussion with a single client. you want to ensure there is competition for your business and avoid being used as a pawn for your adviser to curry favor with his or her best client.
