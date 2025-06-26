@@ -39,3 +39,27 @@ Important notes:
 - the term business broker is usually used for individuals who do a smalles deals where the total value of the transaction is well under $5M. you are really looking for a boutique m&A firm. the firm you select needs to be large enough to be respected by a potential buyer, yet small enough that your deal will be important to them
 - find an adviser for whom you will be neither their largest nor their smallest client. make sure they know your industry
 - avoid an adviser who offers to a broker a discussion with a single client. you want to ensure there is competition for your business and avoid being used as a pawn for your adviser to curry favor with his or her best client.
+- for your business to get the highest valuation, you need to show how you can be an engine of growth for an acquirer
+- I want you to take off your conservative business hat and imagine what is possible. could you start your sales force? could you make better use of the internet to sell logos? think like starbucks
+- teds tip #15: think big. write a 3 year biz plan that paints a picture of what is possible for your biz. remember, the company that acquires you will have more resources for you to accelerate your growth.
+- strategic buyers will typically pay more because you're worth more to them thatn you would be to a financial buyerservice firms refer to their customers as clients and product businesses refer to them as customers.
+- ted's tip #16: if you want to be a sellable, product oriented business, you need to use the language of one. CHange words like clients to customers and firn to business. Rid your website and customer facing communications of any references that you used to be a generic business.
+- Replace the word "engagement" with the word "contract".
+- ted's tip #17: don't issue stock options to retain key employees after an acquisition. instead, use a simple stay bonus that offeres the members of your mngt team a cash reward if you sell your company. pay the reward or more installments only to those who stay so that you ensure your key staff stays on thorugh  the transition.
+  - They're already beenefiting from the chance of career advancement that would be limited if you stay as a small biz
+- a buyer want to hear that you see a future for your business and you want their help to get you to the next level. they want to hear you personally are going to stay on after the sale.
+    - tell them you're proud of the growth you've achieved and that you're at a point in your life where you'd like to create some liquidity for the value you've created so far and have an opportunity to participate in some of the upside of the business
+    - we don't have to pinpoint a time frame now, but you do need ti give the buyer the sense that you;re willing to stay on for a transition period.'
+    - example: "we've proven the model can work in one city. I'm at the stage of my life personally that i'd like to create some liquidity for the value I;ve createdso far, and I'd like to find a partner that can help us replicate the model in other cities and allow me to share in some of the future growth.
+- to recap: find a product or service that 1. teachable 2., valuable to your customers to avoid "commodization 3. they are repeatable, meaning customers need to return again and again to buy
+- if you buy on a subscription model, you will have one of the most valuable businesses in your industry
+- the only thing more valuable than an automatic renewal subscription is a hard contract for a defined term
+- if you get an offer to buy your company, the second most important number on the page may be the working capital calculation. if you offer does not include details on the working capital calculation, be sure to lock down that number before you agree to anything
+- as you build your sales team, look for people who first enjoy selling and second like the product
+- when you sell one thing, they simply got a chance to repeatadly practice a single pitch
+- tell your mngt team that you want to sell your business
+- wondering that your moat could be to protect you against employee defection? here are a few ideas to get you thinking:
+- - own the annual raning study in your category
+  - own the annual awards program for your category
+  - own the event for your industry
+  - ownt he benchmark (I.e. net promoter score)
